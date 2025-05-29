@@ -36,3 +36,7 @@ This project visualizes employee attendance data from April to June 2022 using i
 2. Import the Excel file into Power BI Desktop.
 3. Recreate or review the dashboard using Power BI visualizations.
 4. Optionally publish the dashboard to the Power BI Service for web-based access.
+
+### 📸 Dashboard Preview
+
+![Dashboard Preview](Attendance%20Insights.png)
