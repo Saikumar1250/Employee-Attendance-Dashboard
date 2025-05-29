@@ -1,6 +1,5 @@
 # Employee-Attendance-Dashboard
 A Power BI dashboard project that visualizes employee attendance data (presence, WFH, and sick leave) from April to June 2022 using Excel as a data source. Useful for HR analytics and workforce management.
-# Attendance Insights Dashboard (2022–2023)
 This project visualizes employee attendance data from April to June 2022 using interactive dashboards. The dashboard provides insights into employee presence, work-from-home (WFH), and sick leave (SL) percentages over time, as well as breakdowns by date and day of the week.
 
 ## 📊 Features
